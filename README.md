@@ -38,10 +38,10 @@ The most technically challenging part of this project was building the Burnout R
 - WLB Score 1 (Bad) nearly doubles attrition rate
   
 ## 🛠️ Tools & Technologies
-  Power BI Desktop
-  DAX (Data Analysis Expressions)
-  Power Query (M)
-  IBM HR Analytics Dataset
+- Power BI Desktop
+-  DAX (Data Analysis Expressions)
+-  Power Query (M)
+-  IBM HR Analytics Dataset
   
 ## 📸 Dashboard Screenshots
 Page 1 — Executive Summary
@@ -52,13 +52,13 @@ Page 3 — Compensation & Retention
 <img width="1168" height="659" alt="Page3_Compensation_Retention png" src="https://github.com/user-attachments/assets/9571193d-d7ba-4c4e-9720-22bf77408301" />
 
 ## 🚀 How to Run This Project
-1.Download the dataset from Kaggle:
+- Download the dataset from Kaggle:
 👉https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-2. Download Power BI Desktop
-3. Open the .pbix file from the Dashboard folder
-4. Update data source path:
+- Download Power BI Desktop
+- Open the .pbix file from the Dashboard folder
+-  Update data source path:
    Home → Transform Data → Data Source Settings → change path to your CSV location
-5. Refresh — all visuals will populate automatically
+-   Refresh — all visuals will populate automatically
 
 
 
